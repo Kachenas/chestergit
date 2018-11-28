@@ -1,5 +1,5 @@
 <?php
 
-echo "Sample";
+echo "3rd Edition";
 
 ?>
